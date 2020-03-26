@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(151, 151, 151);
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 800px;
+    margin: 0px auto;
+}
+
+.Primary{
+    background-color:rgb(214, 214, 214);
+    padding: 5px;
+    
+}
+
+.Secondary {
+    background-color:rgb(255, 255, 255);
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+.Tertiary{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+
+.listing{
+    border-bottom: solid;
+    border-color: rgb(199, 199, 199);
+    border-width: 1px;
+}
+
+h1{
+    color: rgb(116, 116, 116);
+    margin-left: 10px;
+} 
+
+.header{
+    color: rgb(87, 87, 87);
+    font-weight: bold;
+
+}
+
+.date {
+    font: bold;
+    color: rgb(125, 14, 230);
+    font-size: 12px ;
+}
+
+p {
+    font-size: 14px;
+}
+
+.detail {
+    font-size: 12px ;
+}
